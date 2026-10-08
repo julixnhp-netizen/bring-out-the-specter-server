@@ -1,0 +1,13 @@
+{
+  "name": "bring-out-the-specter-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Servidor multijugador para salas de Bring Out the Specter",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}
